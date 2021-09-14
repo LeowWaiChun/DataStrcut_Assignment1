@@ -5,11 +5,12 @@ If you have any problem, you can PM me on GitHub.
 Data Structures and algorithms need to practice more and think more.
 
 some git commands:
-```
-import foundation
-
-print("hello world")
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
 
 
